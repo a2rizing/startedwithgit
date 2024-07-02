@@ -2,6 +2,7 @@ import java.util.*;
 public class program{
     public static void main(String args[])
     {
+        System.out.println("Enter n: "); //added in the branch
         int n;
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
